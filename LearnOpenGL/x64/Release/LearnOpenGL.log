@@ -1,0 +1,17 @@
+﻿  transform.cpp
+C:\Users\Shining3D\source\repos\LearnOpenGL\Shader.h(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(196,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(291,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(292,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(296,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(297,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(298,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(299,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(301,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Shining3D\source\repos\LearnOpenGL\transform.cpp(323,23): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 431 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LearnOpenGL.vcxproj -> C:\Users\Shining3D\source\repos\LearnOpenGL\x64\Release\LearnOpenGL.exe
